@@ -1,0 +1,1794 @@
+[
+  {
+    "classId": "1001",
+    "systemTitle": "五年级三班积分管理",
+    "systemSlogan": "在这里，积分记录每一次成长 🏆",
+    "students": [],
+    "groups": [],
+    "rules": [
+      {
+        "id": 1757696650146,
+        "name": "回答问题正确",
+        "points": 1
+      },
+      {
+        "id": 1757696649977,
+        "name": "认真完成作业",
+        "points": 2
+      },
+      {
+        "id": 1757696647041,
+        "name": "帮助同学",
+        "points": 3
+      },
+      {
+        "id": 1757696645683,
+        "name": "课堂表现优秀",
+        "points": 5
+      },
+      {
+        "id": 1757696647515,
+        "name": "比赛获奖",
+        "points": 10
+      },
+      {
+        "id": 1757696645655,
+        "name": "扰乱课堂",
+        "points": -2
+      },
+      {
+        "id": 1757696649928,
+        "name": "作业不完整",
+        "points": -1
+      },
+      {
+        "id": 1757696651643,
+        "name": "迟到",
+        "points": -1
+      },
+      {
+        "id": 1757696652024,
+        "name": "不尊重他人",
+        "points": -3
+      },
+      {
+        "id": 1757697174122,
+        "name": "早读大声读书",
+        "points": 1
+      },
+      {
+        "id": 1757697179042,
+        "name": "及时出操，且听从指挥",
+        "points": 1
+      },
+      {
+        "id": 1757697186839,
+        "name": "参加各类比赛为班级争光",
+        "points": 5
+      },
+      {
+        "id": 1757697195668,
+        "name": "课堂认真听讲，积极回答问题",
+        "points": 2
+      },
+      {
+        "id": 1757697211080,
+        "name": "自习课独立完成作业，安静自习",
+        "points": 1
+      },
+      {
+        "id": 1757697244157,
+        "name": "卫生保持好",
+        "points": 2
+      },
+      {
+        "id": 1757697251099,
+        "name": "被学校公开表扬",
+        "points": 10
+      },
+      {
+        "id": 1757697271094,
+        "name": "值日生认真负麦",
+        "points": 2
+      },
+      {
+        "id": 1757697317632,
+        "name": "桌面有纸屑等垃圾",
+        "points": -2
+      },
+      {
+        "id": 1757697331589,
+        "name": "室外集合影响班级纪律",
+        "points": -2
+      },
+      {
+        "id": 1757697339995,
+        "name": "垃圾乱扔",
+        "points": -2
+      },
+      {
+        "id": 1757697356505,
+        "name": "语言不文明/辱骂他人",
+        "points": -2
+      },
+      {
+        "id": 1757697364341,
+        "name": "值日生不按时打扫卫生、擦黑板",
+        "points": -1
+      },
+      {
+        "id": 1757697388025,
+        "name": "教室内外大声说话、追逐打闹",
+        "points": -2
+      },
+      {
+        "id": 1757697402018,
+        "name": "打架斗殴",
+        "points": -10
+      },
+      {
+        "id": 1757697418140,
+        "name": "课堂说话、注意力不集中",
+        "points": -2
+      },
+      {
+        "id": 1757697433488,
+        "name": "课堂被老师点名批评",
+        "points": -2
+      },
+      {
+        "id": 1757697435651,
+        "name": "考试作弊",
+        "points": -10
+      },
+      {
+        "id": 1757697449433,
+        "name": "被学校公开批评",
+        "points": -10
+      }
+    ],
+    "shopItems": [
+      {
+        "id": 1757697540450,
+        "name": "中性笔",
+        "cost": 30,
+        "stock": 6
+      },
+      {
+        "id": 1757697548140,
+        "name": "笔记本",
+        "cost": 40,
+        "stock": 6
+      },
+      {
+        "id": 1757697562961,
+        "name": "迷你风扇",
+        "cost": 45,
+        "stock": 6
+      },
+      {
+        "id": 1757697573170,
+        "name": "网红太阳伞",
+        "cost": 50,
+        "stock": 6
+      },
+      {
+        "id": 1757697579230,
+        "name": "手工材料",
+        "cost": 60,
+        "stock": 6
+      },
+      {
+        "id": 1757697591592,
+        "name": "圆规",
+        "cost": 35,
+        "stock": 6
+      },
+      {
+        "id": 1757697606593,
+        "name": "钥匙扣",
+        "cost": 40,
+        "stock": 6
+      },
+      {
+        "id": 1757697630036,
+        "name": "午休抱枕",
+        "cost": 50,
+        "stock": 6
+      },
+      {
+        "id": 1757697644020,
+        "name": "时尚玩偶",
+        "cost": 60,
+        "stock": 6
+      },
+      {
+        "id": 1757697648606,
+        "name": "网红水杯",
+        "cost": 65,
+        "stock": 6
+      },
+      {
+        "id": 1757697667464,
+        "name": "手工材料",
+        "cost": 60,
+        "stock": 6
+      },
+      {
+        "id": 1757697670359,
+        "name": "委食大礼包",
+        "cost": 70,
+        "stock": 6
+      },
+      {
+        "id": 1757697686682,
+        "name": "猪肉3斤",
+        "cost": 80,
+        "stock": 6
+      },
+      {
+        "id": 1757697686041,
+        "name": "沪上阿姨珍珠奶茶",
+        "cost": 40,
+        "stock": 6
+      },
+      {
+        "id": 1757697706369,
+        "name": "网红水杯",
+        "cost": 65,
+        "stock": 6
+      },
+      {
+        "id": 1757697716778,
+        "name": "新鲜水果一箱",
+        "cost": 75,
+        "stock": 6
+      },
+      {
+        "id": 1757697724812,
+        "name": "牛肉1斤",
+        "cost": 85,
+        "stock": 6
+      }
+    ],
+    "timestamp": "2025-09-14T03:38:58.365Z",
+    "awardList": [
+      {
+        "name": "1",
+        "id": 1757818630381
+      }
+    ]
+  },
+  {
+    "classId": "10011",
+    "systemTitle": "五年级四班积分管理",
+    "systemSlogan": "在这里，积分记录每一次成长 🏆",
+    "students": [],
+    "groups": [],
+    "rules": [
+      {
+        "id": 1757696650146,
+        "name": "回答问题正确",
+        "points": 1
+      },
+      {
+        "id": 1757696649977,
+        "name": "认真完成作业",
+        "points": 2
+      },
+      {
+        "id": 1757696647041,
+        "name": "帮助同学",
+        "points": 3
+      },
+      {
+        "id": 1757696645683,
+        "name": "课堂表现优秀",
+        "points": 5
+      },
+      {
+        "id": 1757696647515,
+        "name": "比赛获奖",
+        "points": 10
+      },
+      {
+        "id": 1757696645655,
+        "name": "扰乱课堂",
+        "points": -2
+      },
+      {
+        "id": 1757696649928,
+        "name": "作业不完整",
+        "points": -1
+      },
+      {
+        "id": 1757696651643,
+        "name": "迟到",
+        "points": -1
+      },
+      {
+        "id": 1757696652024,
+        "name": "不尊重他人",
+        "points": -3
+      },
+      {
+        "id": 1757697174122,
+        "name": "早读大声读书",
+        "points": 1
+      },
+      {
+        "id": 1757697179042,
+        "name": "及时出操，且听从指挥",
+        "points": 1
+      },
+      {
+        "id": 1757697186839,
+        "name": "参加各类比赛为班级争光",
+        "points": 5
+      },
+      {
+        "id": 1757697195668,
+        "name": "课堂认真听讲，积极回答问题",
+        "points": 2
+      },
+      {
+        "id": 1757697211080,
+        "name": "自习课独立完成作业，安静自习",
+        "points": 1
+      },
+      {
+        "id": 1757697244157,
+        "name": "卫生保持好",
+        "points": 2
+      },
+      {
+        "id": 1757697251099,
+        "name": "被学校公开表扬",
+        "points": 10
+      },
+      {
+        "id": 1757697271094,
+        "name": "值日生认真负麦",
+        "points": 2
+      },
+      {
+        "id": 1757697317632,
+        "name": "桌面有纸屑等垃圾",
+        "points": -2
+      },
+      {
+        "id": 1757697331589,
+        "name": "室外集合影响班级纪律",
+        "points": -2
+      },
+      {
+        "id": 1757697339995,
+        "name": "垃圾乱扔",
+        "points": -2
+      },
+      {
+        "id": 1757697356505,
+        "name": "语言不文明/辱骂他人",
+        "points": -2
+      },
+      {
+        "id": 1757697364341,
+        "name": "值日生不按时打扫卫生、擦黑板",
+        "points": -1
+      },
+      {
+        "id": 1757697388025,
+        "name": "教室内外大声说话、追逐打闹",
+        "points": -2
+      },
+      {
+        "id": 1757697402018,
+        "name": "打架斗殴",
+        "points": -10
+      },
+      {
+        "id": 1757697418140,
+        "name": "课堂说话、注意力不集中",
+        "points": -2
+      },
+      {
+        "id": 1757697433488,
+        "name": "课堂被老师点名批评",
+        "points": -2
+      },
+      {
+        "id": 1757697435651,
+        "name": "考试作弊",
+        "points": -10
+      },
+      {
+        "id": 1757697449433,
+        "name": "被学校公开批评",
+        "points": -10
+      }
+    ],
+    "shopItems": [],
+    "timestamp": "2025-09-14T03:19:04.856Z"
+  },
+  {
+    "classId": "100111",
+    "systemTitle": "五年级五班积分管理",
+    "systemSlogan": "在这里，积分记录每一次成长 🏆",
+    "students": [],
+    "groups": [],
+    "rules": [
+      {
+        "id": 1757696650146,
+        "name": "回答问题正确",
+        "points": 1
+      },
+      {
+        "id": 1757696649977,
+        "name": "认真完成作业",
+        "points": 2
+      },
+      {
+        "id": 1757696647041,
+        "name": "帮助同学",
+        "points": 3
+      },
+      {
+        "id": 1757696645683,
+        "name": "课堂表现优秀",
+        "points": 5
+      },
+      {
+        "id": 1757696647515,
+        "name": "比赛获奖",
+        "points": 10
+      },
+      {
+        "id": 1757696645655,
+        "name": "扰乱课堂",
+        "points": -2
+      },
+      {
+        "id": 1757696649928,
+        "name": "作业不完整",
+        "points": -1
+      },
+      {
+        "id": 1757696651643,
+        "name": "迟到",
+        "points": -1
+      },
+      {
+        "id": 1757696652024,
+        "name": "不尊重他人",
+        "points": -3
+      },
+      {
+        "id": 1757697174122,
+        "name": "早读大声读书",
+        "points": 1
+      },
+      {
+        "id": 1757697179042,
+        "name": "及时出操，且听从指挥",
+        "points": 1
+      },
+      {
+        "id": 1757697186839,
+        "name": "参加各类比赛为班级争光",
+        "points": 5
+      },
+      {
+        "id": 1757697195668,
+        "name": "课堂认真听讲，积极回答问题",
+        "points": 2
+      },
+      {
+        "id": 1757697211080,
+        "name": "自习课独立完成作业，安静自习",
+        "points": 1
+      },
+      {
+        "id": 1757697244157,
+        "name": "卫生保持好",
+        "points": 2
+      },
+      {
+        "id": 1757697251099,
+        "name": "被学校公开表扬",
+        "points": 10
+      },
+      {
+        "id": 1757697271094,
+        "name": "值日生认真负麦",
+        "points": 2
+      },
+      {
+        "id": 1757697317632,
+        "name": "桌面有纸屑等垃圾",
+        "points": -2
+      },
+      {
+        "id": 1757697331589,
+        "name": "室外集合影响班级纪律",
+        "points": -2
+      },
+      {
+        "id": 1757697339995,
+        "name": "垃圾乱扔",
+        "points": -2
+      },
+      {
+        "id": 1757697356505,
+        "name": "语言不文明/辱骂他人",
+        "points": -2
+      },
+      {
+        "id": 1757697364341,
+        "name": "值日生不按时打扫卫生、擦黑板",
+        "points": -1
+      },
+      {
+        "id": 1757697388025,
+        "name": "教室内外大声说话、追逐打闹",
+        "points": -2
+      },
+      {
+        "id": 1757697402018,
+        "name": "打架斗殴",
+        "points": -10
+      },
+      {
+        "id": 1757697418140,
+        "name": "课堂说话、注意力不集中",
+        "points": -2
+      },
+      {
+        "id": 1757697433488,
+        "name": "课堂被老师点名批评",
+        "points": -2
+      },
+      {
+        "id": 1757697435651,
+        "name": "考试作弊",
+        "points": -10
+      },
+      {
+        "id": 1757697449433,
+        "name": "被学校公开批评",
+        "points": -10
+      }
+    ],
+    "shopItems": [],
+    "timestamp": "2025-09-14T03:19:12.905Z"
+  },
+  {
+    "classId": "1001111",
+    "systemTitle": "2025级高一1班积分管理",
+    "systemSlogan": "在这里，积分记录每一次成长 🏆",
+    "students": [
+      {
+        "id": 1757831433611,
+        "name": "曾钰雯",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831438287,
+        "name": "陈芷萱",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831441096,
+        "name": "崔炜悦",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831440014,
+        "name": "邓熙桐",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831440876,
+        "name": "黄子淇",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831432472,
+        "name": "姜钇名",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831434559,
+        "name": "赖欣妤",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831440813,
+        "name": "黎可洋",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831434867,
+        "name": "李存惠",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831440074,
+        "name": "廖柔",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831435664,
+        "name": "廖昕雅",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831434112,
+        "name": "罗懿",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831438725,
+        "name": "丘蕙宁",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831441662,
+        "name": "邱淑涵",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831432839,
+        "name": "孙涵悦",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831437817,
+        "name": "王梓萱",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831441157,
+        "name": "吴乐语",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831432224,
+        "name": "肖晴",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831441660,
+        "name": "肖翊瑶",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831434878,
+        "name": "熊思睿",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831432282,
+        "name": "叶芳菲",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831440564,
+        "name": "张涵瑜",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831433120,
+        "name": "张瑾萱",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831434316,
+        "name": "张可",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831432880,
+        "name": "周颖懿",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831441230,
+        "name": "庄欣",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831441040,
+        "name": "邹钰琪",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831440025,
+        "name": "曹晨阳",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831438231,
+        "name": "耿楚涵",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831435011,
+        "name": "李其翰",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831441328,
+        "name": "李瑞嘉",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831435836,
+        "name": "刘思源",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831432895,
+        "name": "刘泽轩",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831440389,
+        "name": "刘梓淳",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831439144,
+        "name": "齐翰瑜",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831436881,
+        "name": "王皓轩",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831438921,
+        "name": "吴嘉浚",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831440073,
+        "name": "吴俊霖",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831438275,
+        "name": "吴泽楷",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831434692,
+        "name": "谢卓涵",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831439465,
+        "name": "徐国进",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831441332,
+        "name": "徐烨",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831441124,
+        "name": "张承毓",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831437837,
+        "name": "郑杭胤",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831437755,
+        "name": "钟鑫鹏",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757831433068,
+        "name": "邹厚宇",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      }
+    ],
+    "groups": [],
+    "rules": [
+      {
+        "id": 1757696650146,
+        "name": "答题正确",
+        "points": 1
+      },
+      {
+        "id": 1757696649977,
+        "name": "作业获得A+",
+        "points": 2
+      },
+      {
+        "id": 1757696651643,
+        "name": "迟到",
+        "points": -1
+      },
+      {
+        "id": 1757697174122,
+        "name": "早读大声读书",
+        "points": 1
+      },
+      {
+        "id": 1757697195668,
+        "name": "主动举手回答问题",
+        "points": 2
+      },
+      {
+        "id": 1757697211080,
+        "name": "自习课独立完成作业，安静自习",
+        "points": 1
+      },
+      {
+        "id": 1757697251099,
+        "name": "被学校公开表扬",
+        "points": 10
+      },
+      {
+        "id": 1757697435651,
+        "name": "考试作弊",
+        "points": -10
+      },
+      {
+        "id": 1757697449433,
+        "name": "被学校公开批评",
+        "points": -10
+      },
+      {
+        "id": 1757831798240,
+        "name": "作业评分A",
+        "points": 1
+      },
+      {
+        "id": 1757831830973,
+        "name": "不交作业",
+        "points": -3
+      },
+      {
+        "id": 1757832055372,
+        "name": "上课上厕所（积分换）",
+        "points": -1
+      },
+      {
+        "id": 1757832175860,
+        "name": "作业评分C",
+        "points": -1
+      },
+      {
+        "id": 1757832185750,
+        "name": "作业评分B",
+        "points": 0
+      },
+      {
+        "id": 1757833020254,
+        "name": "课堂/自习说话、注意力不集中，扰乱课堂，被老师批评",
+        "points": -2
+      }
+    ],
+    "shopItems": [
+      {
+        "id": 1757832411967,
+        "name": "抽纸一包",
+        "cost": "30",
+        "stock": "20"
+      },
+      {
+        "id": 1757832551393,
+        "name": "免作业1天",
+        "cost": "10",
+        "stock": "100"
+      }
+    ],
+    "timestamp": "2025-09-14T06:57:52.413Z",
+    "awardList": []
+  },
+  {
+    "classId": "10011111",
+    "systemTitle": "六年级五班积分管理",
+    "systemSlogan": "在这里，积分记录每一次成长 🏆",
+    "students": [],
+    "groups": [],
+    "rules": [
+      {
+        "id": 1757696650146,
+        "name": "回答问题正确",
+        "points": 1
+      },
+      {
+        "id": 1757696649977,
+        "name": "认真完成作业",
+        "points": 2
+      },
+      {
+        "id": 1757696647041,
+        "name": "帮助同学",
+        "points": 3
+      },
+      {
+        "id": 1757696645683,
+        "name": "课堂表现优秀",
+        "points": 5
+      },
+      {
+        "id": 1757696647515,
+        "name": "比赛获奖",
+        "points": 10
+      },
+      {
+        "id": 1757696645655,
+        "name": "扰乱课堂",
+        "points": -2
+      },
+      {
+        "id": 1757696649928,
+        "name": "作业不完整",
+        "points": -1
+      },
+      {
+        "id": 1757696651643,
+        "name": "迟到",
+        "points": -1
+      },
+      {
+        "id": 1757696652024,
+        "name": "不尊重他人",
+        "points": -3
+      },
+      {
+        "id": 1757697174122,
+        "name": "早读大声读书",
+        "points": 1
+      },
+      {
+        "id": 1757697179042,
+        "name": "及时出操，且听从指挥",
+        "points": 1
+      },
+      {
+        "id": 1757697186839,
+        "name": "参加各类比赛为班级争光",
+        "points": 5
+      },
+      {
+        "id": 1757697195668,
+        "name": "课堂认真听讲，积极回答问题",
+        "points": 2
+      },
+      {
+        "id": 1757697211080,
+        "name": "自习课独立完成作业，安静自习",
+        "points": 1
+      },
+      {
+        "id": 1757697244157,
+        "name": "卫生保持好",
+        "points": 2
+      },
+      {
+        "id": 1757697251099,
+        "name": "被学校公开表扬",
+        "points": 10
+      },
+      {
+        "id": 1757697271094,
+        "name": "值日生认真负麦",
+        "points": 2
+      },
+      {
+        "id": 1757697317632,
+        "name": "桌面有纸屑等垃圾",
+        "points": -2
+      },
+      {
+        "id": 1757697331589,
+        "name": "室外集合影响班级纪律",
+        "points": -2
+      },
+      {
+        "id": 1757697339995,
+        "name": "垃圾乱扔",
+        "points": -2
+      },
+      {
+        "id": 1757697356505,
+        "name": "语言不文明/辱骂他人",
+        "points": -2
+      },
+      {
+        "id": 1757697364341,
+        "name": "值日生不按时打扫卫生、擦黑板",
+        "points": -1
+      },
+      {
+        "id": 1757697388025,
+        "name": "教室内外大声说话、追逐打闹",
+        "points": -2
+      },
+      {
+        "id": 1757697402018,
+        "name": "打架斗殴",
+        "points": -10
+      },
+      {
+        "id": 1757697418140,
+        "name": "课堂说话、注意力不集中",
+        "points": -2
+      },
+      {
+        "id": 1757697433488,
+        "name": "课堂被老师点名批评",
+        "points": -2
+      },
+      {
+        "id": 1757697435651,
+        "name": "考试作弊",
+        "points": -10
+      },
+      {
+        "id": 1757697449433,
+        "name": "被学校公开批评",
+        "points": -10
+      }
+    ],
+    "shopItems": [],
+    "timestamp": "2025-09-14T03:19:30.104Z"
+  },
+  {
+    "classId": "100111111",
+    "systemTitle": "2025级高一10班积分管理",
+    "systemSlogan": "在这里，积分记录每一次成长 🏆",
+    "students": [
+      {
+        "id": 1757835395333,
+        "name": "安子煜",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835393946,
+        "name": "常颢智",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835398922,
+        "name": "陈思羽",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835393102,
+        "name": "狄恩一",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835399979,
+        "name": "董嘉琪",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835395894,
+        "name": "奉仪",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835400295,
+        "name": "高书桓",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835393881,
+        "name": "黄敬锴",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835400931,
+        "name": "黄思毅",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835394917,
+        "name": "黄信添",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835399350,
+        "name": "黄一弘",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835401333,
+        "name": "黄子康",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835395902,
+        "name": "揭楚悦",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835392094,
+        "name": "赖思成",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835393117,
+        "name": "雷浩羽",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835399033,
+        "name": "李雅雯",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835393250,
+        "name": "李喆",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835395813,
+        "name": "林可茵",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835394636,
+        "name": "刘烁妍",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835396559,
+        "name": "刘一璇",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835396004,
+        "name": "陆梓琳",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835395618,
+        "name": "路博超",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835398948,
+        "name": "雒圳渲",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835400370,
+        "name": "麦胜杰",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835393163,
+        "name": "孟子熙",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835392313,
+        "name": "欧阳思远",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835400954,
+        "name": "彭志昊",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835392544,
+        "name": "钱铭佑",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835393350,
+        "name": "涂文莉",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835394273,
+        "name": "万悦淇",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835391472,
+        "name": "王一丞",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835399629,
+        "name": "王亦山",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835398690,
+        "name": "王奕惠",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835393627,
+        "name": "吴沁然",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835397224,
+        "name": "肖畅",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835400293,
+        "name": "续佳慧",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835394505,
+        "name": "杨晨琳",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835398182,
+        "name": "杨雅旭",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835393744,
+        "name": "叶楚楚",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835400378,
+        "name": "张耀祺",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835396654,
+        "name": "周沁璇",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835396265,
+        "name": "周怡辰",
+        "gender": "female",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      },
+      {
+        "id": 1757835401138,
+        "name": "朱泓羽",
+        "gender": "male",
+        "avatar": null,
+        "totalPoints": 0,
+        "usedPoints": 0,
+        "history": [],
+        "groupId": null
+      }
+    ],
+    "groups": [],
+    "rules": [
+      {
+        "id": 1757696650146,
+        "name": "答题正确",
+        "points": 1
+      },
+      {
+        "id": 1757696649977,
+        "name": "作业获得A+",
+        "points": 2
+      },
+      {
+        "id": 1757696651643,
+        "name": "迟到",
+        "points": -1
+      },
+      {
+        "id": 1757697174122,
+        "name": "早读大声读书",
+        "points": 1
+      },
+      {
+        "id": 1757697195668,
+        "name": "主动举手回答问题",
+        "points": 2
+      },
+      {
+        "id": 1757697211080,
+        "name": "自习课独立完成作业，安静自习",
+        "points": 1
+      },
+      {
+        "id": 1757697251099,
+        "name": "被学校公开表扬",
+        "points": 10
+      },
+      {
+        "id": 1757697435651,
+        "name": "考试作弊",
+        "points": -10
+      },
+      {
+        "id": 1757697449433,
+        "name": "被学校公开批评",
+        "points": -10
+      },
+      {
+        "id": 1757831798240,
+        "name": "作业评分A",
+        "points": 1
+      },
+      {
+        "id": 1757831830973,
+        "name": "不交作业",
+        "points": -3
+      },
+      {
+        "id": 1757832055372,
+        "name": "上课上厕所（积分换）",
+        "points": -1
+      },
+      {
+        "id": 1757832175860,
+        "name": "作业评分C",
+        "points": -1
+      },
+      {
+        "id": 1757832185750,
+        "name": "作业评分B",
+        "points": 0
+      },
+      {
+        "id": 1757833020254,
+        "name": "课堂/自习说话、注意力不集中，扰乱课堂，被老师批评",
+        "points": -2
+      }
+    ],
+    "shopItems": [],
+    "timestamp": "2025-09-14T07:36:31.384Z",
+    "awardList": []
+  }
+]
